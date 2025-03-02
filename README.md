@@ -38,5 +38,17 @@ Encoder Interface 编码器接口
 第五步，配置编码器接口模式
 最后，TMI_cmd启动时钟
 
+ADC转换器
+-12逐次逼近型ADC，1us转换时间
+-输入电压范围：0~3.3v，转换结果范围：0~4095
+-18个输入通道，可测量16个外部和2个内部信号源
+-规则组和注入组两个转换单元
+-模拟看门狗自动检测输入电压范围
+![image](https://github.com/user-attachments/assets/a8ba2fd5-80cf-46b7-81aa-93b585db173f)
+
+
+
+
+
 
 
