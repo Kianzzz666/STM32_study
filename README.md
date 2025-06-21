@@ -65,6 +65,12 @@ I2C通信协议
 ![image](https://github.com/user-attachments/assets/91361a6b-317b-4e3e-8e3e-b917a01336c9)
 ![image](https://github.com/user-attachments/assets/5557eee9-3227-4809-bb91-183ee82468e2)
 
+SPI通信协议 Serial Peripheral Interface  
+![image](https://github.com/user-attachments/assets/71551cb6-46fb-42ee-902d-284549a208f2)
+
+![image](https://github.com/user-attachments/assets/9f545244-6874-40af-b071-e920bdfec045)
+
+
 
 
 
